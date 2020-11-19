@@ -1,3 +1,5 @@
+## About Me
+
 I love APIs, coffee, and the
 <a href="https://twitter.com/iamoxfordcomma">Oxford comma</a>. I
 am a
@@ -21,3 +23,7 @@ that solves
 from customers. I want to write software that improves people's
 lives, and which supports our abilities and enriches our
 relationships outside of the virtual world.
+
+## My Projects
+
+![Pointing down](https://media.giphy.com/media/1Rkx4kwdUuwcqNQG7P/giphy.gif)
