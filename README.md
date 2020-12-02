@@ -1,3 +1,5 @@
+![Header image](https://github.com/thinkjson/thinkjson/blob/main/Github%20header.png?raw=true)
+
 ## About Me
 
 I love APIs, coffee, and the
@@ -23,7 +25,3 @@ that solves
 from customers. I want to write software that improves people's
 lives, and which supports our abilities and enriches our
 relationships outside of the virtual world.
-
-## My Projects
-
-![Pointing down](https://media.giphy.com/media/1Rkx4kwdUuwcqNQG7P/giphy.gif)
